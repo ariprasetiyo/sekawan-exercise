@@ -18,6 +18,11 @@ go get -u github.com/gin-gonic/gin
 go get -u github.com/sirupsen/logrus
 go get -u github.com/joho/godotenv
 
+# run spesific unit test
+go test -run TestFunctionName
+go test filename -v
+ex. go test mikrotik_api_test.go -v 
+
 # init gorm
 go get -u gorm.io/gorm
 go get -u gorm.io/driver/postgres

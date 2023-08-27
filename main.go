@@ -2,8 +2,8 @@ package main
 
 import (
 	"context"
-	controller "sekawan-app/app/main/controller"
-	"sekawan-app/app/main/server"
+	controller "sekawan-exercise/app/main/controller"
+	"sekawan-exercise/app/main/server"
 
 	"github.com/gin-gonic/gin"
 	"go.opentelemetry.io/contrib/instrumentation/github.com/gin-gonic/gin/otelgin"

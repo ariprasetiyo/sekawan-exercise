@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"time"
 
-	"sekawan-app/app/main/util"
+	"sekawan-exercise/app/main/util"
 
 	"github.com/uptrace/opentelemetry-go-extra/otelgorm"
 	"gorm.io/driver/postgres"

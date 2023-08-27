@@ -9,7 +9,7 @@ import (
 	"os"
 	"path"
 	"runtime"
-	"sekawan-app/app/main/util"
+	"sekawan-exercise/app/main/util"
 	"strconv"
 	"time"
 

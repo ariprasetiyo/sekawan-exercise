@@ -3,7 +3,7 @@ package server
 import (
 	"bytes"
 	"io/ioutil"
-	"sekawan-app/app/main/util"
+	"sekawan-exercise/app/main/util"
 	"time"
 
 	"github.com/gin-gonic/gin"

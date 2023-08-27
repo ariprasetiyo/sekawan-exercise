@@ -1,10 +1,11 @@
-module sekawan-app
+module sekawan-exercise
 
 go 1.19
 
 require (
 	github.com/gin-contrib/cors v1.4.0
 	github.com/gin-gonic/gin v1.9.1
+	github.com/go-routeros/routeros v0.0.0-20210123142807-2a44d57c6730
 	github.com/joho/godotenv v1.5.1
 	github.com/otiai10/gosseract/v2 v2.4.0
 	github.com/sirupsen/logrus v1.9.3
